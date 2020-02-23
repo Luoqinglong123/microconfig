@@ -27,7 +27,7 @@ server:
 spring:
   profiles: beta
   application:
-      name: microconfig-test-client5
+      name: microconfig-test-client5-beta
 
 eureka:
  client:
@@ -36,5 +36,5 @@ eureka:
   register-with-eureka: false
   
 info:
-  app.name: microcloud-config-client-beta2
-  company.name: enjoy
+  app.name: microcloud-config-client-beta22233
+  company.name: enjoy2333
